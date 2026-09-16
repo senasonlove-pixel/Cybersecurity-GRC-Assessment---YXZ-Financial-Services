@@ -1,2 +1,2 @@
-# Cybersecurity-GRC-Assessment---XYZ-Financial-Services
+# Cybersecurity-GRC-Assessment---YXZ-Financial-Services
 A Cybersecurity Governance, Risk, and Compliance assessment for YXZ, a multi-line, cross-boarder universal bank.
